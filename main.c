@@ -15,7 +15,7 @@ scanf("%f",&num2);
 
 switch(op)
 {
-case '+':
+case '-':
     printf("num1+num2 = %f",num1+num2);
     break;
 
